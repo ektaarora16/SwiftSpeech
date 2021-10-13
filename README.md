@@ -245,3 +245,9 @@ For guidance on how to implement a custom view for speech recognition, refer to 
 
 ## License
 SwiftSpeech is available under the [MIT license](https://choosealicense.com/licenses/mit/).
+
+# Contributors :
+1. Aaquib ali
+2. Ruthvik
+3. Shrejan singh
+4. Ekta Arora
